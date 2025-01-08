@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "js-beautify": "^1.15.1"
+  }
+}

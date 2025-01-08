@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateJs", "CreateJs.csproj", "{881D7F81-0526-4F30-A1A9-7B6EF0D2923A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonTest", "..\PythonTest\PythonTest.pyproj", "{73704F8E-B4B1-43C8-A285-40F0085D8621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateExcel", "..\CreateExcel\CreateExcel.csproj", "{A4AF620F-888E-4FD6-981E-A6CFCAE48560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{881D7F81-0526-4F30-A1A9-7B6EF0D2923A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881D7F81-0526-4F30-A1A9-7B6EF0D2923A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881D7F81-0526-4F30-A1A9-7B6EF0D2923A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881D7F81-0526-4F30-A1A9-7B6EF0D2923A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73704F8E-B4B1-43C8-A285-40F0085D8621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73704F8E-B4B1-43C8-A285-40F0085D8621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4AF620F-888E-4FD6-981E-A6CFCAE48560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4AF620F-888E-4FD6-981E-A6CFCAE48560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4AF620F-888E-4FD6-981E-A6CFCAE48560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4AF620F-888E-4FD6-981E-A6CFCAE48560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

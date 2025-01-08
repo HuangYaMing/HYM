@@ -1,0 +1,7 @@
+D:\MyWork\Visual Studio\QiCheng\QiCheng\bin\Debug\QiCheng.exe.config
+D:\MyWork\Visual Studio\QiCheng\QiCheng\bin\Debug\QiCheng.exe
+D:\MyWork\Visual Studio\QiCheng\QiCheng\bin\Debug\QiCheng.pdb
+D:\MyWork\Visual Studio\QiCheng\QiCheng\obj\Debug\QiCheng.csproj.AssemblyReference.cache
+D:\MyWork\Visual Studio\QiCheng\QiCheng\obj\Debug\QiCheng.csproj.CoreCompileInputs.cache
+D:\MyWork\Visual Studio\QiCheng\QiCheng\obj\Debug\QiCheng.exe
+D:\MyWork\Visual Studio\QiCheng\QiCheng\obj\Debug\QiCheng.pdb

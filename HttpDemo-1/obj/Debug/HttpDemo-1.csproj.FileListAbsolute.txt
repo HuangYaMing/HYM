@@ -1,0 +1,18 @@
+D:\MyWork\Visual Studio\HttpDemo-1\bin\Debug\HttpDemo-1.exe.config
+D:\MyWork\Visual Studio\HttpDemo-1\bin\Debug\HttpDemo-1.exe
+D:\MyWork\Visual Studio\HttpDemo-1\bin\Debug\HttpDemo-1.pdb
+D:\MyWork\Visual Studio\HttpDemo-1\bin\Debug\Newtonsoft.Json.dll
+D:\MyWork\Visual Studio\HttpDemo-1\obj\Debug\HttpDemo-1.csproj.AssemblyReference.cache
+D:\MyWork\Visual Studio\HttpDemo-1\obj\Debug\HttpDemo-1.csproj.CoreCompileInputs.cache
+D:\MyWork\Visual Studio\HttpDemo-1\obj\Debug\HttpDemo-1.csproj.Up2Date
+D:\MyWork\Visual Studio\HttpDemo-1\obj\Debug\HttpDemo-1.exe
+D:\MyWork\Visual Studio\HttpDemo-1\obj\Debug\HttpDemo-1.pdb
+D:\MyWork\VisualStudio\HttpDemo-1\bin\Debug\HttpDemo-1.exe.config
+D:\MyWork\VisualStudio\HttpDemo-1\bin\Debug\HttpDemo-1.exe
+D:\MyWork\VisualStudio\HttpDemo-1\bin\Debug\HttpDemo-1.pdb
+D:\MyWork\VisualStudio\HttpDemo-1\bin\Debug\Newtonsoft.Json.dll
+D:\MyWork\VisualStudio\HttpDemo-1\obj\Debug\HttpDemo-1.csproj.AssemblyReference.cache
+D:\MyWork\VisualStudio\HttpDemo-1\obj\Debug\HttpDemo-1.csproj.CoreCompileInputs.cache
+D:\MyWork\VisualStudio\HttpDemo-1\obj\Debug\HttpDemo-1.csproj.Up2Date
+D:\MyWork\VisualStudio\HttpDemo-1\obj\Debug\HttpDemo-1.exe
+D:\MyWork\VisualStudio\HttpDemo-1\obj\Debug\HttpDemo-1.pdb

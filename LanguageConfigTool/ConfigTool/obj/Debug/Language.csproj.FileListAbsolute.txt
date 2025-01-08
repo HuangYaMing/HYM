@@ -1,0 +1,58 @@
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\Language.exe.config
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\Language.exe
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\Language.pdb
+D:\MyWork\Visual Studio\Language\Language\obj\Debug\Language.csproj.AssemblyReference.cache
+D:\MyWork\Visual Studio\Language\Language\obj\Debug\Language.csproj.CoreCompileInputs.cache
+D:\MyWork\Visual Studio\Language\Language\obj\Debug\Language.exe
+D:\MyWork\Visual Studio\Language\Language\obj\Debug\Language.pdb
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\EPPlus.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\EPPlus.Interfaces.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\EPPlus.System.Drawing.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.Buffers.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.ComponentModel.Annotations.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.Drawing.Common.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.Memory.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.Numerics.Vectors.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\EPPlus.xml
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.Buffers.xml
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.Drawing.Common.pdb
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.Drawing.Common.xml
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.Memory.xml
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.Numerics.Vectors.xml
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MyWork\Visual Studio\Language\Language\obj\Debug\Language.csproj.Up2Date
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\Acornima.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\Jint.dll
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\Acornima.xml
+D:\MyWork\Visual Studio\Language\Language\bin\Debug\Jint.xml
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\Language.exe.config
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\Language.exe
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\Language.pdb
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\Acornima.dll
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\EPPlus.dll
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\EPPlus.Interfaces.dll
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\EPPlus.System.Drawing.dll
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.Buffers.dll
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.ComponentModel.Annotations.dll
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.Drawing.Common.dll
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.Memory.dll
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.Numerics.Vectors.dll
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\Acornima.xml
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\EPPlus.xml
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.Buffers.xml
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.Drawing.Common.pdb
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.Drawing.Common.xml
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.Memory.xml
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.Numerics.Vectors.xml
+D:\MyWork\VisualStudio\Language\Language\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MyWork\VisualStudio\Language\Language\obj\Debug\Language.csproj.AssemblyReference.cache
+D:\MyWork\VisualStudio\Language\Language\obj\Debug\Language.csproj.CoreCompileInputs.cache
+D:\MyWork\VisualStudio\Language\Language\obj\Debug\Language.csproj.Up2Date
+D:\MyWork\VisualStudio\Language\Language\obj\Debug\Language.exe
+D:\MyWork\VisualStudio\Language\Language\obj\Debug\Language.pdb
